@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-faruuq-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruuq)](https://www.linkedin.com/in/faruuq) [![iCloud Badge](https://img.shields.io/badge/-iCloud-white?style=flat&logo=icloud&logoColor=ocean&link=mailto:treetop-balsam.0u@icloud.com)](mailto:treetop-balsam.0u@icloud.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruuqq" alt="faruuqq" /> </p>
 
-Welcome to my humble abode in the Digital World. There are 10 types of people in the world. Those who get Binary and those who don't.
+Welcome to my humble abode in the Digital World. 99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code...
 
 ## :computer: Technologies I Love
 * Mobile Development
